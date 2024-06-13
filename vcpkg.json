@@ -1,0 +1,11 @@
+{
+  "name": "poptipharm",
+  "version": "0.1.0",
+  "dependencies": [
+    {
+      "name": "eigen3",
+      "version>=": "3.4.0"
+    }
+  ],
+  "builtin-baseline": "aebb363eaa0b658beb19cbefdd5aa2f9cbc14f1e"
+}

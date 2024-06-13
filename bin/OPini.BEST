@@ -1,0 +1,28 @@
+#
+# This is an automatically generated OPTIPHARM configuration file.
+# Edit only if you really know, what you're doing!
+#
+
+[Random numbers]
+
+	random seed:	1524392460
+
+[Objective function]
+
+	search space type:	0
+	function index:		0
+	dimension of space:	10
+	lower bound vector:
+		0.000000e+00 -1.000000 -1.000000 -1.000000 -1.000000 -1.000000 
+		-1.000000 -5.000000 -5.000000 -5.000000 
+	upper bound vector:
+		6.283185 1.000000 1.000000 1.000000 1.000000 1.000000 
+		1.000000 5.000000 5.000000 5.000000 
+
+[UEGO parameters]
+
+	function evaluations:	200000
+	max. species number:	5
+	stability threshold:	136.014
+	levels:			5
+	smallest radius:	1.000000e+00

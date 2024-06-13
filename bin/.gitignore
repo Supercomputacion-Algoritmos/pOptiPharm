@@ -1,0 +1,9 @@
+*
+!.gitignore
+!OPini*
+!*.py
+!*.slurm
+!*.sh
+!comps/
+
+OPini.JERO
