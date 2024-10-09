@@ -1,3 +1,0 @@
-/home/savins/pOptiPharm/CMakeFiles/pOPShapeSimilarity.dir
-/home/savins/pOptiPharm/CMakeFiles/edit_cache.dir
-/home/savins/pOptiPharm/CMakeFiles/rebuild_cache.dir
