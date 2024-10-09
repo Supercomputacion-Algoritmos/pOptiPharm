@@ -11,7 +11,7 @@
 ////////////////////////////////////////////////////////////
 
 // --- flags for save --------------------------------------------------
-
+#include <cstdint>
 #define SAVE_INI 1UL
 #define SHORT_SAVE 2UL
 #include "functions/MoveAndRotate.h"

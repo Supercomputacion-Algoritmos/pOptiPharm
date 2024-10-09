@@ -13,7 +13,7 @@
 
 #ifndef MOLECULE_H
 #define MOLECULE_H
-
+#include <cstdint>
 #include "Atom.h"
 #include "Bond.h"
 #include <string>

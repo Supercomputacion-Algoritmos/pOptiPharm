@@ -1,7 +1,7 @@
 cmake_minimum_required (VERSION 3.15)
 
 # Setting VCPKG to easy lib installation
-set(CMAKE_TOOLCHAIN_FILE "${CMAKE_SOURCE_DIR}/vcpkg/scripts/buildsystems/vcpkg.cmake")
+#set(CMAKE_TOOLCHAIN_FILE "${CMAKE_SOURCE_DIR}/vcpkg/scripts/buildsystems/vcpkg.cmake")
 
 # Configuration of project
 project (pOptiPharm CXX)

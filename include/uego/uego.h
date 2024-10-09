@@ -22,6 +22,7 @@ void message(const char *, short);
 #define MSG_ERROR 1
 #define MSG_NOTHING 0
 
+#include <cstdint>
 // --- define to keep source clean
 #define INI (Master::ini())
 

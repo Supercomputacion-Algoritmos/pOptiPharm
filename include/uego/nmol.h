@@ -1,5 +1,7 @@
+#include <cstdint>
 #ifndef NREAL_H
 #define NREAL_H
+
 #include "functions/VolumeOverlap.h"
 #include "searchsp.h"
 ////////////////////////////////////////////////////////////

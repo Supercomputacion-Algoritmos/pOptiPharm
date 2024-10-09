@@ -2,7 +2,7 @@
 // Despues ejecuta UEGO
 
 #include "time.h"
-
+#include <cstdint>
 #include "functions/Parameters.h"
 #include "model/Molecule.h"
 #include "model/Point3DDouble.h"

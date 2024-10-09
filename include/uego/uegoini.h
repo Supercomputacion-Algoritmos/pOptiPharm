@@ -3,6 +3,7 @@
 
 class SearchSpElement;
 
+#include <cstdint>
 #include "model/Molecule.h"
 #include <cstdlib>
 #include <cstring>
